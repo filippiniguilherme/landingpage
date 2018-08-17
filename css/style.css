@@ -1,0 +1,32 @@
+.secao ul {
+	background-color: #F6F6F6;
+	border-radius: 8px ;
+	padding: 30px 55px;
+	
+}
+.cabecalho {
+	background-image: url("../img/cabecalho.png");
+	background-size: cover; 
+	background-position: center center;
+	background-repeat: no-repeat;
+	padding: 200px 0px;
+	color: white;
+}
+.secao{
+	padding: 60px 0px;
+}
+.segunda-secao{
+	background-image: url("../img/fundo-cachorros.png");
+	background-size: 192px;
+	background-repeat: repeat;
+	background-color: #F1F9FF;
+	padding: 100px 0px;
+}
+.rodape{
+	padding-top: 8px 0px;
+	font-size: 10pt;
+}
+.logo{
+	height: 22px;
+	width: 22px;
+}
